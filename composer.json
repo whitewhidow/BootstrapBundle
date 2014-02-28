@@ -1,0 +1,11 @@
+{
+    "name": "whitewhidow/BootstrapBundle",
+    "type": "symfony-bundle",
+    "description": "symfony BBITBootstrapBundle",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "BBIT\\BootstrapBundle": "" }
+    },
+    "target-dir": "BBIT/BootstrapBundle"
+}
