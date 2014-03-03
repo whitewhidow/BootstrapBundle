@@ -10,14 +10,8 @@ Installation:
 -------------
 
 ```
-"repositories": [
-        {
-            "url": "https://github.com/whitewhidow/BootstrapBundle.git",
-            "type": "git"
-        }
-],
 "require": {
-        "whitewhidow/BootstrapBundle": "dev-master"
+        "bbit/bootstrap-bundle": "dev-master"
 }
 ```
 
