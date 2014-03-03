@@ -1,5 +1,5 @@
 {
-    "name": "whitewhidow/BootstrapBundle",
+    "name": "bbit/bootstrap-bundle",
     "type": "symfony-bundle",
     "description": "symfony BBITBootstrapBundle",
     "license": "MIT",
