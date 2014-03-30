@@ -6,7 +6,7 @@ BootstrapBundle
 Will include jquery, bootstrap and font-awsome.
 
 
-### Step 1: Download BBITAsyncDispatcherBundle using composer
+### Step 1: Download BBITBootstrapBundle using composer
 
 Add BBITAsyncDispatcherBundle in your composer.json:
 
